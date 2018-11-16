@@ -1,0 +1,25 @@
+
+{
+"products":[
+{"id":1,"name":"Tenrec, tailless","category":"Pink"},
+{"id":2,"name":"Siskin, pine","category":"Aquamarine"},
+{"id":3,"name":"Urial","category":"Teal"},
+{"id":4,"name":"Monitor, two-banded","category":"Purple"},
+{"id":5,"name":"Kinkajou","category":"Blue"},
+{"id":6,"name":"Brown antechinus","category":"Purple"},
+{"id":7,"name":"Pademelon, red-legged","category":"Yellow"},
+{"id":8,"name":"Stork, yellow-billed","category":"Mauv"},
+{"id":9,"name":"Hottentot teal","category":"Purple"},
+{"id":10,"name":"Common long-nosed armadillo","category":"Pink"},
+{"id":11,"name":"Blesbok","category":"Red"},
+{"id":12,"name":"Eastern indigo snake","category":"Orange"},
+{"id":13,"name":"Yellow-bellied marmot","category":"Pink"},
+{"id":14,"name":"Possum, pygmy","category":"Aquamarine"},
+{"id":15,"name":"Cape raven","category":"Turquoise"},
+{"id":16,"name":"Red-breasted nuthatch","category":"Green"},
+{"id":17,"name":"Common long-nosed armadillo","category":"Violet"},
+{"id":18,"name":"Brazilian otter","category":"Khaki"},
+{"id":19,"name":"Spotted wood sandpiper","category":"Green"},
+{"id":20,"name":"Coke's hartebeest","category":"Pink"}
+]
+}
